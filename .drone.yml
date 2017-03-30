@@ -5,7 +5,7 @@ pipeline:
     username: ${DOCKER_USERNAME}
     password: ${DOCKER_PASSWORD}
     email: ${DOCKER_EMAIL}
-    repo: arobson/aws-elasticsearch
+    repo: lucro/aws-elasticsearch
     tags:
       - latest
       - "2.4"
